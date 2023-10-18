@@ -33,7 +33,7 @@ const Dashboard = () => {
               {" "}
               Explore now
             </button>
-            <button className=" sm:w-fit  px-1 py-1 rounded-full bg-transparent hover:bg-slate-700  bg-[#6EEBDD] mt-3">
+            <button className=" sm:w-fit  px-1 py-1 rounded-full bg-transparent hover:bg-slate-700  border bg-[#6EEBDD] mt-3">
               {/* <Link href="/CVPage.jsx"> */}
               <span className="text-white block bg-[#121212] hover:bg-slate-800 rounded-full py-2 px-5  ">
                 Create{" "}
