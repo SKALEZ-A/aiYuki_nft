@@ -5,11 +5,11 @@ import NftImages from "./NftImages";
 // import { motion } from "framer-motion";
 
 const imageUrls = [
-  "./images/Property_1.png",
-  "./images/Property_2.png",
-  "./images/Property_3.png",
-  "./images/Property_4.png",
-  "./images/Property_5.png",
+  "/images/Property_1.png",
+  "/images/Property_2.png",
+  "/images/Property_3.png",
+  "/images/Property_4.png",
+  "/images/Property_5.png",
 ];
 
 const Dashboard = () => {
