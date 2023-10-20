@@ -21,7 +21,7 @@ const Dashboard = () => {
           <h1 className="text-white mb-3 text-4xl sm:text-4xl lg:text-5xl lg:leading-normal font-extrabold">
             {" "}
             DISCOVER, COLLECT AND SELL REMARKABLE{" "}
-            <span className="text-[#6EEBDD]">NFT</span>
+            <span className="text-[#6EEBDD]">NFTs</span>
           </h1>
           <p className="text-slate-400">
             Many desktop publishing packages and web page editors now use lorem
